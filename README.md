@@ -23,7 +23,7 @@ Internet
          │
          ▼
 ┌─────────────────────┐
-│  Proxmox VE 9.0.3   │  HP Z2450 · i7-6700 · 15.41GB RAM
+│  Proxmox VE 9.0.3   │  HP Z240 · i7-6700 · 16GB RAM
 │  (Hypervisor)       │
 └────────┬────────────┘
          │

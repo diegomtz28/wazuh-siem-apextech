@@ -17,7 +17,7 @@ Deployed a Wazuh 4.9.2 all-in-one SIEM on a new Ubuntu Server 22.04 VM (SIEM01) 
 | WS01 | Domain Workstation | Windows 11 Pro — 10.10.1.100 — Wazuh Agent 001 |
 | HD01 | Helpdesk / osTicket | Windows Server 2022 — 10.10.1.200 — Wazuh Agent 003 |
 | pfSense | Firewall / Router | 10.10.1.1 — internal routing for 10.10.1.0/24 |
-| Proxmox VE | Hypervisor | HP Z2450 — i7-6700 — 15.41GB RAM |
+| Proxmox VE | Hypervisor | HP Z240 — i7-6700 — 16GB RAM |
 
 ---
 
